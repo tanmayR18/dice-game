@@ -32,5 +32,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://wonderful-kulfi-02bea8.netlify.app/
-
+https://dice-game-18.netlify.app/
